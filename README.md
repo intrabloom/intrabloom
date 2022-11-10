@@ -1,6 +1,6 @@
-- 👋 Hey there, visitor! My name's Brian and I love languages—including programming languages. I’m interested in researching AI/ML applications in new technologies
+- 👋 Hey there, visitor! My name's Brian and I love languages—including programming languages. I’m interested in human-driven AI factors
 - 🌱 I’m currently learning Python 3 and TensorFlow
-- 📫 Search intrabloom on google for a list of my profiles, or go follow @intrabloom on instagram!
+- 📫 @intrabloom everywhere including 🦣 Mastodon @techhub.social
 
 <!---
 intrabloom/intrabloom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
